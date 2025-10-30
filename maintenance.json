@@ -1,1 +1,5 @@
-off
+{
+  "maintenance": false,
+  "customMessage": "",
+  "users": []
+}
